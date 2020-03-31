@@ -3,6 +3,7 @@ This code book describes all the variables in the `avgdata.txt` file after runni
 
 # Variables 
 ->  `subject`  - This is an integer datatype. With 30 different sets recorded
+
 ->  `activity` - This is a string datatype. And this describes the activity that they were performing while the measurements were being                    recorded
                1. LAYING
                2. SITTING
@@ -10,6 +11,8 @@ This code book describes all the variables in the `avgdata.txt` file after runni
                4. WALKING
                5. WALKING DOWNSTAIRS
                6. WALKING UPSTAIRS
+               
+               
 
 
 # Measurements

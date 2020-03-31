@@ -24,3 +24,4 @@ This repo contains the following files
 # NOTE
 1. Need to install `reshape` plugin for the script to run.
 2. Need to download the sample data from the link mentioned above.
+3. For better understanding of the output of the script `avgdata.txt` please view the file using NOTEPAD++
